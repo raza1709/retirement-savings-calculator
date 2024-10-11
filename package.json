@@ -1,0 +1,16 @@
+{
+    "name": "retirement-calculator-tests",
+    "version": "1.0.0",
+    "description": "Automation tests for the retirement calculator",
+    "main": "index.js",
+    "scripts": {
+        "test": "npx playwright test"
+    },
+    "author": "Raza Shah",
+    "license": "ISC",
+    "dependencies": {
+        "@playwright/test": "^1.20.1",
+        "retirement-calculator-tests": "file:",
+        "winston": "^3.15.0"
+    }
+}

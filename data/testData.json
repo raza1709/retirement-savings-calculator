@@ -1,0 +1,11 @@
+{
+    "currentAge": 30,
+    "retirementAge": 65,
+    "currentIncome": 50000,
+    "spouseIncome": 40000,
+    "totalSavings": 100000,
+    "annualSavings": 5000,
+    "savingsIncreaseRate": 3,
+    "socialSecurityOverride": 2000
+  }
+  
