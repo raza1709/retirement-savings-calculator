@@ -31,7 +31,11 @@ A web application that helps users calculate their retirement savings based on v
    ```bash
    git clone https://github.com/raza1709/retirement-savings-calculator.git
    cd retirement-savings-calculator
+   
+2. Select branch:
+   git checkout master
 
+   
 ## Install dependencies
 npm install
 
